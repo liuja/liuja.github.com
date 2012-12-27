@@ -1,12 +1,6 @@
 ---
-   
 layout  post
-
-   category  lessons
-
-   tags  [¿ªÊ¼]
-
+category  lessons
+tags  [second]
 ---
-
-
-##once more£¡
+##once more!
